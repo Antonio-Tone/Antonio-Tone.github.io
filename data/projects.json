@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "image_url": "https://i.postimg.cc/DyWr5b75/Screenshot-2023-07-05-115209.png",
+      "title": "1st Portfolio",
+      "description": "This was my first webpage I ever made, it was built using HTML5 and CSS",
+      "github_url": "https://github.com/Antonio-Tone/Profile.git",
+      "live_url": "https://lighthearted-marshmallow-2d6528.netlify.app",
+       "aos":"fade-up"
+    },
+    {
+      "id": 2,
+      "image_url": "https://i.postimg.cc/mrXLkkK1/Screenshot-2023-07-05-115016.png",
+      "title": "1st Ecommerce website",
+      "description": "This is my first Ecommerce website. It was built using HTML5 and CSS as well as with javascript.",
+      "github_url": "https://github.com/Antonio-Tone/e-commerce_pg.git",
+      "live_url": "https://arsites.netlify.app",
+      "aos":"fade-up"
+    },
+    {
+      "id": 3,
+      "image_url": "https://i.postimg.cc/9XNLb2HP/Screenshot-2023-07-05-114320.png",
+      "title": "BMI Calculator.",
+      "description": "Ths is where I had to make a BMI calculator using HTML5 and CSS and Javascript.",
+      "github_url": "https://github.com/Antonio-Tone/bmi.git",
+      "live_url": "https://willowy-druid-f2607c.netlify.app",
+      "aos":"fade-up"
+    },
+
+    {
+      "id": 4,
+      "image_url": "https://i.postimg.cc/FzDbYjgX/Screenshot-2023-07-05-114111.png",
+      "title": "Currency Converter",
+      "description": "This where I had to make a functional currency converter using JavaScript.",
+      "github_url": "https://github.com/Antonio-Tone/currency_conv.git",
+      "live_url": "https://64a539f21a0ac100b314de5a--astonishing-blancmange-346d33.netlify.app/",
+      "aos":"fade-up"
+    },
+
+    {
+      "id": 5,
+      "image_url": "https://i.postimg.cc/3rSDDJQh/Screenshot-2023-07-05-114646.png",
+      "title": "2nd Ecommerce website",
+      "description": "This project is where I had to made a functional ecommerce website that comes with an add to cart.",
+      "github_url": "https://github.com/Antonio-Tone/js_project.git",
+      "live_url": "https://tony-4ad9f6.netlify.app",
+      "aos":"fade-up"
+    },
+    {
+      "id": 6,
+      "image_url": "https://i.postimg.cc/2yVMGFjr/Screenshot-2023-07-05-121612.png",
+      "title": "J Cole website.",
+      "description": "This was a fun little project that I did on my own private time. I used the page to  practice my skills.",
+      "github_url": "https://github.com/Antonio-Tone/html.pg.git",
+      "live_url": "https://jcole.netlify.app",
+      "aos":"fade-up"
+    }
+  ]
+}

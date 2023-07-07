@@ -1,0 +1,28 @@
+{
+    "timelines": [
+        {
+          "id": "1",
+          "year": "2023-Current",
+          "title": "Life Choice",
+          "description": "I started at Life Choices Academy. I'm doing a Full Stack development course",
+          "class": "left animated animate__bounceInLeft",
+         "style":"animation-delay: 0.7s"
+        },
+        {
+          "id": "2",
+          "year": "2021-2023",
+          "title": "Stodels Garden centre",
+          "class": "right animated animate__animated animate__fadeInDownBig",
+          "description": "I started working at Stodels in 2021 as a general assistant and sales consultant. In the year 2022 i got promoted to a drivers position where I was responsible for doing deliveries for the company as well transporting staff from branch to branch.",
+          "style":"animation-delay: 1s"
+        },
+        {
+          "id": "3",
+          "year": "2015-2020",
+          "title": "Sarepta Secondary  School",
+          "description": "I graduated in 2020 with a bachelor degree.",
+          "class": "left animated animate__bounceInRight",
+          "style":"animation-delay: 1.5s"
+        }
+      ]
+}

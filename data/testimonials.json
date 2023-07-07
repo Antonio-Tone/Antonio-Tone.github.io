@@ -1,0 +1,53 @@
+{
+    "testimonials": [
+        {
+            "id":1,
+            "image_url":"https://i.postimg.cc/VL53dhfv/C12-Luke-Evertson-1.jpg",
+             "title":"Colleague",
+             "name":"Luke Evertson",
+             "description": "Antonio is a very fun person to work with and has a great sense of humour.He Is hardworking and disciplined and could be a role model for many. I always love working with him cause he always see the biggger picture.",
+             "class": "active"
+        },
+        {
+            "id":2,
+            "image_url":"https://i.postimg.cc/7P5FLcY6/C12-Asiphe-Ndimlana-1.jpg",
+             "title":"Colleague",
+             "name":"Asiphe Ndimlana",
+             "description":"Antonio is very independent. Whenever he struggles with something he would rather first try and figure it out himself before asking for help. He is extremely kind and friendly and turns every person he meets for the first time into his friend.",
+             "class":""
+        },
+        {
+            "id":3,
+            "image_url":" https://i.postimg.cc/dVNRDW0s/C12-Taahirah-Ismail-1.jpg",
+             "title":"Colleague",
+             "name":"Taahirah Ismail",
+             "description":"He may be a man of few words, but Antonio's hard work and dedication always shine through in whatever he does. You can easily tell he appreciates every opportunity he is given and takes nothing for granted.",
+             "class":""
+        },
+        {
+            "id":4,
+            "image_url":"https://i.postimg.cc/DyHztfG2/IMG-9863-1.jpg",
+             "title":"Colleague",
+             "name":"Ethan Oliver",
+             "description":"I am thrilled to share my positive testimonial about my experience with Antonio. From the moment I first met him I was impressed. His dedication to excellence and drive to achieve was evident in every interaction I had with him.",
+             "class":""
+        },
+        {
+            "id":5,
+            "image_url":" https://i.postimg.cc/7YYT7gdf/Screenshot-2023-05-11-111514.png",
+             "title":"Colleague",
+             "name":"Deno Rautenbach",
+             "description":"Antonio is a very hardworking individual.He has improved a lot in both his coding aswell as in his problem solving skills. He is an extremely nice person to work with as he is very friendly",
+             "class":""
+        },
+        {
+            "id":6,
+            "image_url":"https://i.postimg.cc/mk1J6c6M/Screenshot-2023-07-05-161952.png",
+             "title":"Intern",
+             "name":"Maxwill Isaacs",
+             "description":"Antonio is an exceptionally hard worker and always making time to assist anyone who is in need. Also goes the extra-mile when doing anything that has to be done. He is also very confident in his capabilities and never fails to get the Job done.",
+             "class":""
+        }
+    ]
+
+}
